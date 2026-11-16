@@ -2,10 +2,19 @@
 {
   "name": "AI Studio",
   "short_name": "AI Studio",
+  "description": "Your creative AI workspace",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#090911",
-  "theme_color": "#8749df"
+  "theme_color": "#8749df",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
