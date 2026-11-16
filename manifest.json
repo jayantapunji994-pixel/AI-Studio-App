@@ -1,0 +1,11 @@
+
+{
+  "name": "AI Studio",
+  "short_name": "AI Studio",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090911",
+  "theme_color": "#8749df"
+}
